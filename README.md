@@ -1,12 +1,12 @@
-# Картины.art - портрет на холсте
+# Paintings.art - Canvas Portraits
 
-Проект Картины.art представляет собой веб-приложение, которое позволяет заказать портрет на холсте из фотографии.
+The Paintings.art project is a web application that allows users to order canvas portraits from photographs.
 
-## Описание проекта
+## Project Description
 
-Картины.art предоставляет возможность выбрать различные стили рисунка и заказать готовые картины. Проект также предлагает идеи подарков и информацию для покупателей.
+Paintings.art provides the opportunity to choose from various drawing styles and order ready-made canvas portraits. The project also offers gift ideas and information for buyers.
 
-## Технологии
+## Technologies Used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
@@ -16,18 +16,18 @@
 ![Animate.css](https://img.shields.io/badge/-Animate.css-FF2D20?logo=css3&logoColor=white)
 
 
-## Функциональность и модульная структура
+## Functionality and Modular Structure
 
-Проект использует модульную структуру, разбитый на следующие модули:
+The project uses a modular structure divided into the following modules:
 
-* Модальные окона (modals): обеспечивает управление модальными окнами на странице, позволяя открывать и закрывать их по требованию пользователя.
-* Реализована функциональность слайдеров для просмотра контента.
-* Добавлена маска на поле ввода номера телефона.
-* Реализована функциональность перетаскивания файлов для удобной загрузки.
-* Аккордеона: позволяет пользователю раскрывать и скрывать контент по своему выбору.
-* Плавная прокрутка (scrolling): обеспечивает плавную прокрутку страницы и переход к разделам по клику на ссылки.
-* Также реализован адаптивный дизайн для удобного использования на мобильных устройствах.
+* Modals: Provides control over the modals on the page, allowing users to open and close them as needed.
+* Implemented slider functionality for content viewing.
+* Added mask to the phone number input field.
+* Implemented file drag and drop functionality for convenient file uploads.
+* Accordion: Allows users to expand and collapse content of their choice.
+* Smooth scrolling: Provides smooth page scrolling and navigation to sections by clicking on links.
+* Additionally, the project has an adaptive design for convenient use on mobile devices.
 
-## Ссылки проекта
+## Project Links
 
-Ссылка на проект для просмотра - https://mshabunin97.github.io/pictures/
+Link to the project for viewing - https://mshabunin97.github.io/pictures/
